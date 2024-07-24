@@ -7,9 +7,9 @@
 - ⚡ Fun fact: I practice Calligraphy
 
 My Socials
-LinkedIn https://www.linkedin.com/in/vaishnavigawali
-GitHub   https://github.com/vaishnavi-gawali
-Medium   https://medium.com/@vaishnavi.gawali29
+- LinkedIn https://www.linkedin.com/in/vaishnavigawali
+- GitHub   https://github.com/vaishnavi-gawali
+- Medium   https://medium.com/@vaishnavi.gawali29
 
 <!---
 vaishnavi-gawali/vaishnavi-gawali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
