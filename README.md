@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vaishnavi Avinash Gawali
-- 👀 I’m actively looking for Full Time Roles in Data Analysis & Business Intelligence domain
+- 👀 I’m actively seeking Full Time Roles in Data Analysis & Business Intelligence domain
 - 🌱 I’m Microsoft Certified Power BI Data Analyst
 - 💞️ I’m looking to collaborate on data science and analytics projects
 - 📫 You can reach me via vaishnavi.gawali29@gmail.com
