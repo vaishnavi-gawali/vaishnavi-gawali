@@ -29,8 +29,7 @@
 
 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/vaishnavi-gawali?tab=repositories)
 
-[![Medium](https://cdn.iconscout.com/icon/free/png-256/medium-282137.png)] Read my blogs @ (https://medium.com/@yourusername)
-
+📖 Read my blogs @ ([https://medium.com/@vaishnavi.gawali29])
 
 
 <br/>
