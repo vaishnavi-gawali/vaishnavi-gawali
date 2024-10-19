@@ -29,7 +29,8 @@
 
 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/vaishnavi-gawali?tab=repositories)
 
-[![Medium](https://upload.wikimedia.org/wikipedia/commons/4/49/Medium_icon.png)](https://medium.com/@yourusername) Read my blogs @ Medium
+[![Medium](https://cdn.iconscout.com/icon/free/png-256/medium-282137.png)] Read my blogs @ (https://medium.com/@yourusername)
+
 
 
 <br/>
@@ -67,7 +68,6 @@
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter Notebook" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://www.rstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg" alt="RStudio" height="50"/> </a> &nbsp;&nbsp;
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50"/> </a> &nbsp;&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 </p>
 
