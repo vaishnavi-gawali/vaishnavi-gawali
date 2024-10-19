@@ -19,7 +19,7 @@
  
 💻 Data Analyst Apprentice @ **The University of Texas at Dallas**
  
-💻 Data Engineer/Analyst @ **Tata Consultancy Services**
+💻 Software Engineer/Analyst @ **Tata Consultancy Services**
  
 🌱 I’m actively seeking Full Time Roles in **Data Analysis & Business Intelligence** domain
  
@@ -46,7 +46,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"/> </a> &nbsp;&nbsp;
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" height="60"/> </a> &nbsp;&nbsp;
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+
 </p>
 
 <br/>
