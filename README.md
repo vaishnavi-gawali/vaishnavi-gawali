@@ -29,6 +29,9 @@
 
 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/vaishnavi-gawali?tab=repositories)
 
+[![Medium](https://upload.wikimedia.org/wikipedia/commons/4/49/Medium_icon.png)](https://medium.com/@yourusername) Read my blogs @ Medium
+
+
 <br/>
 
 <h3 align="left">Connect with me</h3>
