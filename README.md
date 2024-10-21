@@ -25,7 +25,7 @@
  
 📫 How to reach me **vaishnavi.gawali29@gmail.com**
 
-📄 Click Here ---> [To view my Porfolio](https://github.com/vaishnavi-gawali)
+📄 Click Here ---> [To view my Porfolio](https://vaishnavi-gawali.github.io/portfolio/)
 
 👨‍💻 All of my projects are available at [Project Repositories](https://github.com/vaishnavi-gawali?tab=repositories)
 
