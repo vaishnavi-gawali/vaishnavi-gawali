@@ -13,7 +13,7 @@
 
 🎓 Masters in Information Technology and Management@ **The University of Texas at Dallas**
 
-🔭 I’m currently working as a **Data Engineer at JerseySTEM**
+🔭 I’m currently working as a **Data Analyst at JerseySTEM**
 
 💻 Data Analyst Intern @ **National Voices for Equality, Education and Enlightenment**
  
