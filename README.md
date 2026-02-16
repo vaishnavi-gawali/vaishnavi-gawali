@@ -19,7 +19,7 @@
 
 🎓 Masters in Information Technology and Management@ **The University of Texas at Dallas**
 
-🔭 I’m currently working as a **Operations at Commure**
+🔭 I’m currently working as a **Operations Professional at Commure**
 
 💻 Data Analyst Intern @ **JerseySTEM and National Voices for Equality, Education and Enlightenment**
  
