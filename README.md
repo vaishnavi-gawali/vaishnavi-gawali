@@ -4,8 +4,9 @@
 </div> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi👋,+I'm+Vaishnavi+Avinash+Gawali" alt="Typing VAG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hi%F0%9F%91%8B,+I%27m+Vaishnavi+Avinash+Gawali" alt="Typing VAG">
 </p>
+
 
 
 <h3 align="center">Welcome to my GitHub profile! I'm a data-driven professional with more than 4 years of experience in Data Analytics, Engineering, and Project Management. Proficient in designing and implementing data pipelines, conducting in-depth data analysis, creating informative dashboards, and delivering actionable insights to support decision-making processes.. </h3>
@@ -18,9 +19,9 @@
 
 🎓 Masters in Information Technology and Management@ **The University of Texas at Dallas**
 
-🔭 I’m currently working as a **Data Analyst at JerseySTEM**
+🔭 I’m currently working as a **Operations at Commure**
 
-💻 Data Analyst Intern @ **National Voices for Equality, Education and Enlightenment**
+💻 Data Analyst Intern @ **JerseySTEM and National Voices for Equality, Education and Enlightenment**
  
 💻 Data Analyst Apprentice @ **The University of Texas at Dallas**
  
